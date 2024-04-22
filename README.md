@@ -75,32 +75,32 @@ Deployed Subnet in the Vnet created above <br/>
 <br />
 <br />
 
-Push Tagged image to Azure Container Registry (ACR) <br/>
+Create a resource block for resource group in terraform <br/>
 
-<img width="465" alt="Picture8" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/2ee4c001-3119-4ceb-862f-27efed83347f">
-
+<img width="450" alt="Picture8 str 1" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/f6b0c9be-53f8-44de-922c-cc8ade771afd">
 
 
 <br />
 <br />
 
 
-Deploy application to Azure Kurbenetes Cluster (AKS) <br/>
+Create a resource block for storage account in terraform. Apply terraform commands to create resources <br/>
 
-<img width="450" alt="Picture9" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/b739e76f-ae59-4f1a-b16f-ac022242ae74">
+<img width="450" alt="Picture9 str 2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/30d6d0b1-4f9d-4c96-9ea2-394a9f8a0151">
 <br />
 <br />
 
- Confirm application is working <br/>
+ Resource group deployement confirmation <br/>
 
-<img width="450" alt="Picture10" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/73c8144d-f5ce-4f3f-84d7-60d912dc7ac7">
+<img width="450" alt="Picture10 str 3" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/e424b494-4268-4eb7-8a7a-c2ca9ba0a88b">
+
 
 <br />
 <br />
 
-Automate the entire deployment process using Jenkins <br/>
+Storage account deployement confirmation <br/>
 
-
+<img width="450" alt="Picture11 str 3" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/a4112a9f-83b9-47d6-b1c1-cea5c330097a">
 
 
 <br />
