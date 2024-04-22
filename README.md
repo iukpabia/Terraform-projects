@@ -41,7 +41,7 @@ Open a terminal and initiate terraform init, terraform plan and terraform apply 
 <br />
 <br />
 
-Confirm resource group deployement in Azure cloud <br/>
+Confirm resource group deployment in Azure cloud <br/>
 
 <img width="450" alt="Picture3 rg" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/2ea2d3e8-4487-4946-814b-e8c9c3ecb8d3">
 <br />
@@ -90,7 +90,7 @@ Create a resource block for storage account in terraform. Apply terraform comman
 <br />
 <br />
 
- Resource group deployement confirmation <br/>
+ Resource group deployment confirmation <br/>
 
 <img width="450" alt="Picture10 str 3" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/e424b494-4268-4eb7-8a7a-c2ca9ba0a88b">
 
@@ -98,7 +98,7 @@ Create a resource block for storage account in terraform. Apply terraform comman
 <br />
 <br />
 
-Storage account deployement confirmation <br/>
+Storage account deployment confirmation <br/>
 
 <img width="450" alt="Picture11 str 3" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/a4112a9f-83b9-47d6-b1c1-cea5c330097a">
 
