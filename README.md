@@ -28,6 +28,13 @@ Resource group, Virtual network, Subnets, and  Storage account on Azure cloud.
 
 <p align="center">
 
+create provider.tf file in a new folder in terraform <br/>
+
+<img width="450" alt="Picture first pic provideer" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/6fa4b706-164a-4a45-b9d0-b302275effda">
+
+<br />
+<br />
+
 create a terraform resource block for resource group <br/>
 
 <img width="450" alt="Picture1 rg" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/10a4b3b9-184a-406e-a8ae-09c9ec6e7b6c">
