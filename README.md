@@ -28,20 +28,20 @@ Resource group, Virtual network, Subnets, and  Storage account on Azure cloud.
 
 <p align="center">
 
-create a VM with Ubuntu 20.04, install Docker and Docker Compose <br/>
+create a terraform resource block for resource group <br/>
 
 <img width="450" alt="Picture1" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/010f520f-72a7-4217-9ba3-bb3d4472d4e5">
 
 <br />
 <br />
 
-Create Azure container registry (ACR) and capture details for futher use. <br/>
+Open a terminal and initiate terraform init, terraform plan and terraform apply <br/>
 
 <img width="450" alt="Picture2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/785a119a-0530-4d81-9a5e-3c734daa688e">
 <br />
 <br />
 
-Create an Azure Kurbenetes Cluster (AKS). <br/>
+Confirm resource group deployement in Azure cloud <br/>
 
 <img width="450" alt="Picture3" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/58433d13-3a2e-4732-81c7-ea91109045b9">
 <br />
