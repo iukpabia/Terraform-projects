@@ -28,21 +28,21 @@ Resource group, Virtual network, Subnets, and  Storage account on Azure cloud.
 
 <p align="center">
 
-create provider.tf file in a new folder in terraform <br/>
+create Provider.tf file in a new folder in Terraform <br/>
 
 <img width="450" alt="Picture first pic provideer" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/6fa4b706-164a-4a45-b9d0-b302275effda">
 
 <br />
 <br />
 
-create a terraform resource block for resource group <br/>
+create a Terraform resource block for resource group <br/>
 
 <img width="450" alt="Picture1 rg" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/10a4b3b9-184a-406e-a8ae-09c9ec6e7b6c">
 
 <br />
 <br />
 
-Open a terminal and initiate terraform init, terraform plan and terraform apply <br/>
+Open a terminal and initiate Terraform init, Terraform plan and Terraform apply <br/>
 
 <img width="450" alt="Picture2 rg" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/4d384df9-3e34-46c4-a173-7899986cd3c1">
 <br />
@@ -54,13 +54,13 @@ Confirm resource group deployment in Azure cloud <br/>
 <br />
 <br />
 
-Create a resource block for Virtual network in terraform <br/>
+Create a resource block for Virtual network in Terraform <br/>
 
 <img width="450" alt="Picture4 vnet 1" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/018c4d1e-65c3-40a0-8456-6bfcd7be85d1">
 <br />
 <br />
 
-Create two resource blocks for subnet and apply terraform command <br/>
+Create two resource blocks for subnet and apply Terraform command <br/>
 
 <img width="450" alt="Picture5 sub 1" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/fe0a33ee-f1c3-4e0a-9a69-9b46d1112097">
 
@@ -82,7 +82,7 @@ Deployed Subnet in the Vnet created above <br/>
 <br />
 <br />
 
-Create a resource block for resource group in terraform <br/>
+Create a resource block for resource group in Terraform <br/>
 
 <img width="450" alt="Picture8 str 1" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/f6b0c9be-53f8-44de-922c-cc8ade771afd">
 
@@ -91,7 +91,7 @@ Create a resource block for resource group in terraform <br/>
 <br />
 
 
-Create a resource block for storage account in terraform. Apply terraform commands to create resources <br/>
+Create a resource block for storage account in Terraform. Apply terraform commands to create resources <br/>
 
 <img width="450" alt="Picture9 str 2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/30d6d0b1-4f9d-4c96-9ea2-394a9f8a0151">
 <br />
