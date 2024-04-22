@@ -30,20 +30,20 @@ Resource group, Virtual network, Subnets, and  Storage account on Azure cloud.
 
 create a terraform resource block for resource group <br/>
 
-<img width="450" alt="Picture1" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/010f520f-72a7-4217-9ba3-bb3d4472d4e5">
+<img width="450" alt="Picture1 rg" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/10a4b3b9-184a-406e-a8ae-09c9ec6e7b6c">
 
 <br />
 <br />
 
 Open a terminal and initiate terraform init, terraform plan and terraform apply <br/>
 
-<img width="450" alt="Picture2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/785a119a-0530-4d81-9a5e-3c734daa688e">
+<img width="450" alt="Picture2 rg" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/4d384df9-3e34-46c4-a173-7899986cd3c1">
 <br />
 <br />
 
 Confirm resource group deployement in Azure cloud <br/>
 
-<img width="450" alt="Picture3" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/58433d13-3a2e-4732-81c7-ea91109045b9">
+<img width="450" alt="Picture3 rg" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/2ea2d3e8-4487-4946-814b-e8c9c3ecb8d3">
 <br />
 <br />
 
