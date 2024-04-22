@@ -47,21 +47,21 @@ Confirm resource group deployement in Azure cloud <br/>
 <br />
 <br />
 
-Clone Git repository <br/>
+Create a resource block for Virtual network in terraform <br/>
 
 <img width="450" alt="Picture4" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/cdd597eb-86dd-4ee1-94eb-d989c9aad48a">
 
 <br />
 <br />
 
-Build the Docker image <br/>
+Create two resource blocks for subnet and apply terraform command <br/>
 
 <img width="450" alt="Picture5" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/7ba2ad27-f586-46b8-9e43-00ad48a2756e">
 
 <br />
 <br />
 
-Confirm image build on the designated port number on browser <br/>
+Deployed Vnet in Azure cloud <br/>
 
 <img width="450" alt="Picture6" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/7ec23259-d6db-425e-b6d2-e8ba0d4ae7be">
 
@@ -69,7 +69,7 @@ Confirm image build on the designated port number on browser <br/>
 <br />
 <br />
 
-Tag image <br/>
+Deployed Subnet in the Vnet created above <br/>
 
 <img width="450" alt="Picture7" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/94e394cc-253b-43be-ac99-d1489645a758">
 
