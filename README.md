@@ -49,29 +49,28 @@ Confirm resource group deployement in Azure cloud <br/>
 
 Create a resource block for Virtual network in terraform <br/>
 
-<img width="450" alt="Picture4" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/cdd597eb-86dd-4ee1-94eb-d989c9aad48a">
-
+<img width="450" alt="Picture4 vnet 1" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/018c4d1e-65c3-40a0-8456-6bfcd7be85d1">
 <br />
 <br />
 
 Create two resource blocks for subnet and apply terraform command <br/>
 
-<img width="450" alt="Picture5" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/7ba2ad27-f586-46b8-9e43-00ad48a2756e">
+<img width="450" alt="Picture5 sub 1" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/fe0a33ee-f1c3-4e0a-9a69-9b46d1112097">
 
 <br />
 <br />
 
 Deployed Vnet in Azure cloud <br/>
 
-<img width="450" alt="Picture6" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/7ec23259-d6db-425e-b6d2-e8ba0d4ae7be">
-
+<img width="450" alt="Picture6 vnet 2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/5ceffb2b-9081-46b6-8397-5921f826dc33">
 
 <br />
 <br />
 
 Deployed Subnet in the Vnet created above <br/>
 
-<img width="450" alt="Picture7" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/94e394cc-253b-43be-ac99-d1489645a758">
+<img width="450" alt="Picture7 sub 2" src="https://github.com/iukpabia/AWS-CI-CD-Website-Deployment/assets/127888235/c625996c-9b51-40fd-9d61-dd3802706d38">
+
 
 <br />
 <br />
