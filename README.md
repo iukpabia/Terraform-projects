@@ -3,27 +3,26 @@
  
 
 <h2>Description</h2>
-Amazon Elastic Container Service (Amazon ECS) is a fully managed container orchestration service provided by Amazon Web Services (AWS). 
-It allows you to easily run, stop, and manage Docker containers on a cluster. Amazon ECS eliminates the need for you to install, operate, 
-and scale your own cluster management infrastructure. In this project, I deployed an application on AWS using Fargate mode, Docker image,
-Amazon Elastic container registry (ECR), Code Pipeline & Load balancers.
+Terraform is an open-source infrastructure as code (IaC) software tool created by HashiCorp. 
+It allows users to define and provision data center infrastructure using a declarative configuration language. 
+With Terraform, you can manage infrastructure resources such as virtual machines, networks, storage, 
+and more from various cloud providers and on-premises environments.
 
 <br />
 
 
 <h2>Tools</h2>
 
-- <b>Git</b> 
-- <b>Codecommit</b>
-- <b>Code deploy</b>    
-- <b>Elastic Container Service (ECS)</b>
-- <b>Elastic Container registry (ECS)</b>
-- <b>AWS Code Pipeline</b>
+- <b>Visual Code</b> 
+- <b>Terraform</b>
+- <b>Azure Cli</b>    
+- <b>Azure Cloud</b>
+
   
 
 <h2>Deployment Destination </h2>
 
-- <b>AWS Fargate</b> 
+- <b>Azure Cloud</b> 
 
 <h2>Project walk-through:</h2>
 
