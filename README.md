@@ -3,26 +3,27 @@
  
 
 <h2>Description</h2>
-Terraform is an open-source Infrastructure as Code (IaC) tool developed by HashiCorp. 
-It allows users to define and provision infrastructure resources using a declarative configuration language. 
-With Terraform, you can manage infrastructure components such as virtual machines, networks, storage, 
-and more across various cloud providers and on-premises environments.In this project, I used terraform to deploy
-Resource group, Virtual network, Subnets, and  Storage account on Azure cloud.
+Amazon Elastic Container Service (Amazon ECS) is a fully managed container orchestration service provided by Amazon Web Services (AWS). 
+It allows you to easily run, stop, and manage Docker containers on a cluster. Amazon ECS eliminates the need for you to install, operate, 
+and scale your own cluster management infrastructure. In this project, I deployed an application on AWS using Fargate mode, Docker image,
+Amazon Elastic container registry (ECR), Code Pipeline & Load balancers.
 
 <br />
 
 
 <h2>Tools</h2>
 
-- <b>Azure cloud Account</b> 
-- <b>Azure Cli</b>
-- <b>Visual Studio</b>    
-- <b>Terraform</b>
+- <b>Git</b> 
+- <b>Codecommit</b>
+- <b>Code deploy</b>    
+- <b>Elastic Container Service (ECS)</b>
+- <b>Elastic Container registry (ECS)</b>
+- <b>AWS Code Pipeline</b>
   
 
 <h2>Deployment Destination </h2>
 
-- <b>Azure Cloud</b> 
+- <b>AWS Fargate</b> 
 
 <h2>Project walk-through:</h2>
 
